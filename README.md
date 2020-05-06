@@ -14,9 +14,7 @@ A swift take on swift
 
 > I have never personally reached 100!!! Embarassing~
 
-## Screenshot
-
-### Interface
+## Interface Overview
 ![image](https://user-images.githubusercontent.com/15936046/81200952-3bba9880-8ff7-11ea-8a49-865cef5e8270.png)
 
 Your score appears with a crude praise based on your sense of color:  
